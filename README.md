@@ -52,4 +52,3 @@ Join our community of developers creating universal apps.
 =======
 # listCompras
 Trabalho da Faculdade, Lista de Compras, React Native
->>>>>>> 86dd8891e86810c7eca28b15b93324b19594993f
